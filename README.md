@@ -1,16 +1,15 @@
-## Hi there 👋
+Ola meu nome é Pablo
 
-<!--
-**Cowzry/cowzry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou fazendo o alura mais uma vez
 
-Here are some ideas to get you started:
+aprendo a criar projetos e aprendendo mais coisas com o alura e se divertindo com esse site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+você pode entrar em contato comigo 📫
+
+00001120435298sp@al.educacao.sp.gov.br
+
+@_cout1nhozx
+
+
+![](https://media1.tenor.com/m/-4tVtkvpvn4AAAAC/pokemon-pokemon-first-movie.gif)
